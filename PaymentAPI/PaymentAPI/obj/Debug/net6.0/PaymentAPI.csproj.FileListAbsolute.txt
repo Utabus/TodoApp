@@ -553,3 +553,4 @@ C:\Users\SV\Desktop\DuAnCaNhan\code thue\Gitcode\TodoApp\PaymentAPI\PaymentAPI\o
 C:\Users\SV\Desktop\DuAnCaNhan\code thue\Gitcode\TodoApp\PaymentAPI\PaymentAPI\obj\Debug\net6.0\PaymentAPI.csproj.CopyComplete
 C:\Users\SV\Desktop\DuAnCaNhan\code thue\Gitcode\TodoApp\PaymentAPI\PaymentAPI\obj\Debug\net6.0\PaymentAPI.genruntimeconfig.cache
 C:\Users\SV\Desktop\DuAnCaNhan\code thue\Gitcode\TodoApp\PaymentAPI\PaymentAPI\obj\Debug\net6.0\ref\PaymentAPI.dll
+C:\Users\SV\Desktop\DuAnCaNhan\code thue\Gitcode\TodoApp\PaymentAPI\PaymentAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
